@@ -32,7 +32,7 @@ export default function IndexPage() {
           Welcome to Albert Salgueda's Personal Website
         </Badge>
         <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-          Co-Founder at Altan
+          Albert Salgueda
         </h1>
         <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
           Empowering creators to build and monetize intelligent apps, unlocking a future where humans are free at last.
